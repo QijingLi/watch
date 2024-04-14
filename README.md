@@ -1,11 +1,11 @@
-# Watch
+# Watch—A simple neovim plugin in lua
 
 It's a very simple Neovim plugin that toggles the display of the date and time
 in a floating window. It's for learning purpose.
 
 ## Motivation
 
-Recently I've started using Neovim. There're tons of plugins and even so many
+Recently I've started using Neovim as my main editor. There're tons of plugins and even so many
 plugins to manage plugins, in the end I made it to setup my own development 
 environment, it's awesome! for instance, it's great experience with searching
 files with telescope.nvim. But the process of setup was not smooth. 
