@@ -1,7 +1,9 @@
-# Watch—A simple neovim plugin in lua
+# Watch—a neovim plugin in lua
 
 It's a very simple Neovim plugin that toggles the display of the date and time
 in a floating window. It's for learning purpose.
+
+![Screenshot](images/screenshot-watch-nvim.png)
 
 ## Motivation
 
